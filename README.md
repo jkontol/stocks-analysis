@@ -18,5 +18,5 @@ We will utilize an index for the ticker to give us greater flexibility if the ar
 #Refactoring Results
 
 By refactoring the code we were able to 
- ![2017 Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/Original%20Run.png)
- ![2018 Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/Refactored%20Run.png)
+ ![Original Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/Original%20Run.png)
+ ![Refactored Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/RefactoredRunNew.png)

@@ -10,13 +10,13 @@ We will utilize an index for the ticker to give us greater flexibility if the ar
 
 ![Code Snippet](https://github.com/jkontol/stocks-analysis/blob/main/Resources/code.png)
 
- We will then compare our results from 2017 with 2018. As you can see in the images "ENPH" and "RUN" are the clear top performers showing growth for both years. 2018 shows a drastic decline in stocks overall. 
+ We will then compare our results from 2017 with 2018. As you can see in the images "ENPH" and "RUN" are the clear top performers showing growth for both years. 2018 shows a drastic decline in stocks overall. This would be our recommendation to the client. 
  
  ![2017 Results](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All%20Stocks%20(2017).png)
  ![2018 Results](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All%20Stocks%202018.png)
 
-#Refactoring Results
+##Refactoring Results
 
-By refactoring the code we were able to 
+By refactoring the code we were able to not only optimize our code to be more agile and functional, but we also significantly reduced the runtime. This will allow for easy customizations as our client's needs grow. 
  ![Original Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/Original%20Run.png)
  ![Refactored Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/RefactoredRunNew.png)

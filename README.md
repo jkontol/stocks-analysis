@@ -18,5 +18,7 @@ We will utilize an index for the ticker to give us greater flexibility if the ar
 ##Refactoring Results
 
 By refactoring the code we were able to not only optimize our code to be more agile and functional, but we also significantly reduced the runtime. This will allow for easy customizations as our client's needs grow. 
+
+
  ![Original Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/Original%20Run.png)
  ![Refactored Runtime](https://github.com/jkontol/stocks-analysis/blob/main/Resources/RefactoredRunNew.png)

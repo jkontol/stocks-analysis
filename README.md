@@ -11,4 +11,5 @@ We will utilize an index for the ticker to give us greater flexibility if the ar
 ![Code Snippet](https://github.com/jkontol/stocks-analysis/blob/main/Resources/code.png)
 
  We will then compare our results from 2017 with 2018
- ![Code Snippet](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All_Stocks(2017).png) ![Code Snippet](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All_Stocks_2018.png)
+ ![2017 Results](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All_Stocks(2017).png)
+ ![2018 Results](https://github.com/jkontol/stocks-analysis/blob/main/Resources/All_Stocks2018.png)
